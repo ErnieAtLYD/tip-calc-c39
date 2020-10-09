@@ -1,0 +1,11 @@
+{
+  "name": "tip-calc-c39",
+  "version": "1.0.0",
+  "main": "tip-calc.js",
+  "repository": "git@github.com:ErnieAtLYD/tip-calc-c39.git",
+  "author": "Ernie Hsiung <ernie@wyncode.co>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
